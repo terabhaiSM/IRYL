@@ -1,0 +1,15 @@
+{
+  "originHash" : "2cd14afeace493ac49edee8e897ce0b4343fca71666e16ed686fc728b5e03a2a",
+  "pins" : [
+    {
+      "identity" : "swiftui-introspect?tab=readme-ov-file#swift-package-manager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect?tab=readme-ov-file#swift-package-manager",
+      "state" : {
+        "revision" : "7dc5b287f8040e4ad5038739850b758e78f77808",
+        "version" : "1.1.4"
+      }
+    }
+  ],
+  "version" : 3
+}
