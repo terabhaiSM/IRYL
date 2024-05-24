@@ -6,6 +6,7 @@ struct LogoAndGreetingsView: View {
                     Image("logo")
                         .resizable()
                         .frame(width: 48, height: 48)
+                        .offset(x:0, y:-80)
                     
                     VStack(spacing: 8) {
                         Text("Get Your")
@@ -21,7 +22,7 @@ struct LogoAndGreetingsView: View {
                             .kerning(0.01)
 
                     }
-                    .offset(y:-100)
+                    .offset(y:-80)
                 }
     }
 }
